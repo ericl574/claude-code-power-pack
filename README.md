@@ -46,7 +46,10 @@ Like `/commit`? The full pack adds **6 more commands**, a hook, a skill, and a h
 No filler. Each tool kills a specific daily annoyance.
 
 ### 👉 Get the full pack — **$10**
-**[ DROP YOUR GUMROAD LINK HERE ]**
+
+The complete pack (all 7 commands + hook + skill + hardened config) is launching as a single instant download.
+
+⭐ **[Star this repo](https://github.com/ericl574/claude-code-power-pack)** to get notified the moment it drops — and try the free `/commit` above in the meantime.
 
 *(Personal + commercial use. Instant download. One file, drop it in any repo.)*
 
